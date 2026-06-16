@@ -1,4 +1,16 @@
 # article-code
+Journal Article
+Title:
+Path Planning and Trajectory Tracking Using Type-2/Type-3 Fuzzy Control and Bio-Inspired Optimization for Autonomous Mobile Robots
+Authors:
+Alireza Rafiee, Fahimeh Baghbani, Ardashir Mohammadzadeh
+Journal:
+Applied Soft Computing
+Publisher:
+Elsevier
+DOI:
+https://doi.org/10.1016/j.asoc.2026.115622
+
 MATLAB implementation of an Interval Type-2 Fuzzy Logic Controller (IT2-FLS) for autonomous mobile robot navigation and obstacle avoidance.
 Type-2 Fuzzy Logic Controller for Path Planning and Obstacle Avoidance
 This code implements a mobile robot navigation framework that combines the Dragonfly Optimization Algorithm for global path planning with a Type-2 Fuzzy Logic Controller (FLS) for local motion control and dynamic obstacle avoidance.
