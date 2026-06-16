@@ -2,8 +2,6 @@
 Journal Article
 Title:
 Path Planning and Trajectory Tracking Using Type-2/Type-3 Fuzzy Control and Bio-Inspired Optimization for Autonomous Mobile Robots
-Authors:
-Alireza Rafiee, Fahimeh Baghbani, Ardashir Mohammadzadeh
 Journal:
 Applied Soft Computing
 Publisher:
